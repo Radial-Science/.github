@@ -4,4 +4,4 @@ _Stay tuned_
 
 ## Projects
 
-- [Diffuse](https://diffuse.science/), [GitHub](https://github.com/diff-use)
+- [Diffuse](https://diffuse.science/), ([GitHub](https://github.com/diff-use))
